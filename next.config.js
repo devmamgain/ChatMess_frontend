@@ -6,7 +6,7 @@ const nextConfig = {
     NEXT_PUBLIC_ZEGO_SERVER_ID:"ea0ce870cb364fa322deb877708cab46",
   },
   images:{
-    domains:["localhost"],
+    domains:["localhost", "chatmess-backend.onrender.com"],
   }
 };
 
